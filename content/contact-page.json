@@ -1,0 +1,146 @@
+{
+    "hero": {
+        "title": "Ready to Begin Your Healing Journey?",
+        "subtitle": "I offer a free 15-minute consultation to see if we're a good fit."
+    },
+    "contactInfo": {
+        "title": "Get in Touch",
+        "sections": [
+            {
+                "title": "✉️ Email",
+                "content": "contact@meganshihlcsw.com",
+                "note": "I typically respond to emails within 24-48 hours"
+            },
+            {
+                "title": "📍 Location",
+                "content": "Golden, CO",
+                "note": "Telehealth only for now"
+            },
+            {
+                "title": "🕐 Response Time",
+                "content": "24-48 hours for non-urgent matters",
+                "note": "If you're experiencing a mental health emergency, please call 911 or go to your nearest emergency room.",
+                "isEmergency": true
+            }
+        ]
+    },
+    "form": {
+        "title": "Request Your Free 15-Minute Consultation",
+        "fields": [
+            {
+                "type": "text",
+                "name": "firstName",
+                "label": "First Name *",
+                "required": true
+            },
+            {
+                "type": "text",
+                "name": "lastName",
+                "label": "Last Name *",
+                "required": true
+            },
+            {
+                "type": "email",
+                "name": "email",
+                "label": "Email Address *",
+                "required": true
+            },
+            {
+                "type": "tel",
+                "name": "phone",
+                "label": "Phone Number *",
+                "required": true
+            },
+            {
+                "type": "select",
+                "name": "preferredContact",
+                "label": "Preferred Contact Method",
+                "options": [
+                    {
+                        "value": "phone",
+                        "text": "Phone Call"
+                    },
+                    {
+                        "value": "email",
+                        "text": "Email"
+                    },
+                    {
+                        "value": "text",
+                        "text": "Text Message"
+                    }
+                ]
+            },
+            {
+                "type": "select",
+                "name": "sessionType",
+                "label": "Session Preference",
+                "options": [
+                    {
+                        "value": "either",
+                        "text": "Either In-person or Telehealth"
+                    },
+                    {
+                        "value": "in-person",
+                        "text": "In-person"
+                    },
+                    {
+                        "value": "telehealth",
+                        "text": "Telehealth"
+                    }
+                ]
+            },
+            {
+                "type": "textarea",
+                "name": "availability",
+                "label": "Best Times to Reach You",
+                "placeholder": "e.g., Weekday mornings, Tuesday/Thursday evenings, etc.",
+                "rows": 3
+            },
+            {
+                "type": "textarea",
+                "name": "message",
+                "label": "What brings you to therapy? (Optional)",
+                "placeholder": "Feel free to share what you're hoping to work on or any questions you have about my approach...",
+                "rows": 4
+            }
+        ],
+        "consent": {
+            "text": "I understand this is a request for a consultation and not a therapy session. I consent to being contacted via my preferred method. *",
+            "required": true
+        },
+        "submitButton": "Send Consultation Request",
+        "note": "Please note: This form is not for urgent mental health concerns. If you're experiencing a crisis, please call 911 or the 988 Suicide & Crisis Lifeline."
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": [
+            {
+                "question": "What happens during the free consultation?",
+                "answer": "We'll have a brief 15-minute phone conversation where you can share what brings you to therapy, I'll explain my approach, and we can determine if we're a good fit to work together."
+            },
+            {
+                "question": "Do you accept insurance?",
+                "answer": "I'm currently out-of-network with insurance, but I can provide superbills for potential reimbursement from your insurance company. I recommend contacting your provider about out-of-network benefits."
+            },
+            {
+                "question": "What are your session fees?",
+                "answer": "50-minute sessions are $150. Please inquire about fees for longer sessions."
+            },
+            {
+                "question": "Where are you located?",
+                "answer": "Currently, I am only offering telehealth sessions via a HIPAA-compliant platform."
+            }
+        ]
+    },
+    "footer": {
+        "mainInfo": {
+            "name": "Megan Shih, LCSW",
+            "description": "Based in Golden, CO",
+            "license": "License #09926822"
+        },
+        "contact": {
+            "location": "Denver Metro Area",
+            "email": "contact@meganshihlcsw.com"
+        }
+    }
+}

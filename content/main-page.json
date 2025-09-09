@@ -1,0 +1,121 @@
+{
+    "hero": {
+        "title": "Therapy to Reconnect, Heal, and Flourish",
+        "subtitle": "I work with individuals struggling with shame, vulnerability, and difficulty connecting with themselves and others.", 
+        "buttons": {
+            "primary": "Start Your Journey",
+            "secondary": "Learn About My Approach"
+        }
+    },
+    "therapyWithMe": {
+        "title": "Therapy With Me",
+        "content": [
+            "My vibe is a warm hug, dynamic, and authentic, sprinkled with a sense of humor. I have been told that I am \"easy to talk to.\" I work best with individuals who are struggling with shame cycles and difficulty breaking out of patterns keeping them stuck - stuck in relationships, stuck in emotions preventing healing, stuck in unhealthy patterns, etc. We will make sense of your history, change the narratives that might be causing you suffering, and work to create a new story that allows authentic flourishing.",
+            "While I pull from various therapeutic modalities (see below), my clinical approach is most impacted by psychodynamic theory, attachment frameworks, trauma-informed care, and a focus on the relationship between client and therapist. As your therapist, you will experience not only clinical support, but a genuine relationship that I believe paves the way for lasting change."
+        ]
+    },
+    "services": {
+        "title": "How I Can Help You",
+        "services": [
+            {
+                "title": "Individual Therapy",
+                "description": "I offer one-on-one therapy to adult clients. Concerns I work with include anxiety, complex trauma, depression, emotional dysregulation, grief/loss, identity development, perfectionism, relationships, shame/vulnerability, trauma, and more.",
+                "icon": "individual-therapy-icon.svg"
+            },
+            {
+                "title": "Asian-American Clients",
+                "description": "I enjoy working with fellow Asian-American individuals who are struggling with topics that are tied to their family of origin and cultural roots. I work with clients to process the tension of individuality vs. familial ties; living as a minority in a predominantly white community; and becoming comfortable with emotional vulnerability that may not have been modeled to you.",
+                "icon": "emdr-icon.svg"
+            },
+            {
+                "title": "New Moms & Parents",
+                "description": "I am a Certified Perinatal Mental Health Professional and love working with parents who are adjusting to their new identities. I am also able to work with individuals who have struggled with pregnancy loss, pregnancy complications, birth trauma, and NICU stays. ",
+                "icon": "cpt-icon.svg"
+            },
+            {
+                "title": "Modalities",
+                "description": "Acceptance and Commitment Therapy (ACT), Cognitive Processing Therapy (CPT), Dialectical Behavioral Therapy (DBT), Internal Family Systems (IFS), Eye Movement Desensitization and Reprocessing (EMDR), Self-Compassion Mindfulness",
+                "icon": "individual-therapy-icon.svg"
+            }
+        ]
+    },
+    "education": {
+        "title": "My Education",
+        "items": [
+            "B.S. UC Berkeley",
+            "M.S.W. UNC Chapel Hill",
+            "Post-MSW Fellowship at University of Colorado, Boulder Counseling and Psychiatric Services",
+            "Certified Perinatal Mental Health Professional (PMH-C) through Postpartum Support International",
+            "EMDR Therapy Certificate of Training through The Maiberger Institute "
+        ]
+    },
+    "experience": {
+        "title": "Experience & Training",
+        "content": "I have experience in the mental health field through a psychiatric inpatient setting, university counseling centers, and private practice. Thus, I have seen a vast array of clients ranging in adult age and in psychological experience. I am a Licensed Clinical Social Worker (#09926822) trained in various institutions, including a post-masters fellowship at CU Boulder, where I sharpened my clinical skills related to individual and group psychotherapy, crisis interventions, and integrative behavioral health. In 2025, I completed 24 hours of training through Postpartum Support International to become a Certified Perinatal Mental Health Professional."
+    },
+    "outsideOffice": {
+        "title": "Who I Am Outside The Therapy Office",
+        "content": "I am a daughter of Taiwanese immigrants and mom of two young kids. My favorite self-care activities are reading books, riding my bike, running, and unstructured time with close friends. I have a deep passion for high quality boba and am consistently trying to find the best boba in the Denver Metro area."
+    },
+    "policies": {
+        "fees": {
+            "title": "Fees",
+            "content": [
+                "50-minute session*: $150",
+                "*Longer sessions may be requested, though fees will be adjusted accordingly. Please discuss with me beforehand if you are interested in a longer session."
+            ]
+        },
+        "insurance": {
+            "title": "Insurance",
+            "content": [
+                "At this time, I do not accept insurance, but I can provide you with a superbill for you to seek reimbursement from your insurance company. I would recommend you contact your insurance provider prior to starting therapy to inquire about out-of-network benefits."
+            ]
+        },
+        "cancellationPolicy": {
+            "title": "Cancellation/Missed Appointment Policy",
+            "content": [
+                "I have a 24-hour cancellation policy*. Missed appointments or cancellations made within 24 hours of the appointment will be charged $80.",
+                "*My cancellation policy does not apply in cases of emergencies."
+            ]
+        },
+        "noSurprisesAct": {
+            "title": "No Surprises Act",
+            "content": [
+                "Under the No Surprises Act, you have the right to receive a \"Good Faith Estimate\" explaining how much your medical care will cost.",
+                "Under the law, health care providers need to give patients who do not have insurance or who are not using insurance an estimate of the bill for medical items and services.",
+                "You have the right to receive a Good Faith Estimate for the total expected cost of any non-emergency items or services. This includes related costs like medical tests, prescription drugs, equipment, and hospital fees.",
+                "- Make sure your health care provider gives you a Good Faith Estimate in writing at least 1 business day before your medical service or item. You can also ask your health care provider, and any other provider you choose, for a Good Faith Estimate before you schedule an item or service.",
+                "- If you receive a bill that is at least $400 more than your Good Faith Estimate, you can dispute the bill. Make sure to save a copy or picture of your Good Faith Estimate.",
+                "For questions or more information about your right to a Good Faith Estimate, visit www.cms.gov/nosurprises or call 701-543-5836."
+            ]
+        }
+    },
+    "contactPreview": {
+        "title": "Ready to Take the Next Step?",
+        "subtitle": "I offer a free 15-minute consultation to see if we are a good fit. Reach out today to begin your healing journey.",
+        "cards": [
+            {
+                "title": "Free Consultation",
+                "description": "15-minute phone call to discuss your needs and see if we are a good fit.",
+                "buttonText": "Schedule Now",
+                "buttonLink": "contact.html"
+            },
+            {
+                "title": "Questions?",
+                "description": "Feel free to reach out with any questions about therapy or my approach.",
+                "buttonText": "Send Email",
+                "buttonLink": "mailto:contact@meganshihlcsw.com"
+            }
+        ]
+    },
+    "footer": {
+        "mainInfo": {
+            "name": "Megan Shih, LCSW",
+            "description": "Based in Golden, CO",
+            "license": "License #09926822"
+        },
+        "contact": {
+            "email": "contact@meganshihlcsw.com"
+        }
+    }
+}
