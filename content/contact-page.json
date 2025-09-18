@@ -124,7 +124,7 @@
             },
             {
                 "question": "What are your session fees?",
-                "answer": "50-minute sessions are $150. Please inquire about fees for longer sessions."
+                "answer": "50-minute sessions are $175. Please inquire about fees for longer sessions."
             },
             {
                 "question": "Where are you located?",
@@ -139,7 +139,6 @@
             "license": "License #09926822"
         },
         "contact": {
-            "location": "Denver Metro Area",
             "email": "contact@meganshihlcsw.com"
         }
     }

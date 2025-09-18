@@ -19,7 +19,7 @@
         "services": [
             {
                 "title": "Individual Therapy",
-                "description": "I offer one-on-one therapy to adult clients. Concerns I work with include anxiety, complex trauma, depression, emotional dysregulation, grief/loss, identity development, perfectionism, relationships, shame/vulnerability, trauma, and more.",
+                "description": "I offer one-on-one therapy to adult clients. Concerns I work with include anxiety, complex trauma, depression, emotional dysregulation, grief/loss, identity development, perfectionism, relationships, shame/vulnerability, trauma, university students, and more.",
                 "icon": "individual-therapy-icon.svg"
             },
             {
@@ -61,7 +61,7 @@
         "fees": {
             "title": "Fees",
             "content": [
-                "50-minute session*: $150",
+                "50-minute session*: $175",
                 "*Longer sessions may be requested, though fees will be adjusted accordingly. Please discuss with me beforehand if you are interested in a longer session."
             ]
         },
